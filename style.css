@@ -1,0 +1,35 @@
+body {
+    background-color: black
+}
+p {
+    font-family: Michroma;
+    color: green;
+}
+.mainText {
+    text-align: center;
+    word-wrap: break-word;
+    padding: 400px 0 200px 0;
+    margin: 50px;
+}
+
+.bg-dark {
+    color: green;
+    border-color: green;
+}
+
+.input-dark {
+    border-color: green;
+    color: green;
+    background-color: #2f3832;
+}
+
+.toEncrypt{
+    width: auto;
+}
+.cWidth{
+    width: 180px;
+    
+}
+select{
+    width: auto;
+}
